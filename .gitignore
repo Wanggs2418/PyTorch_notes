@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Deep-Learning-with-PyTorch-Tutorials/
 .Python
 build/
 develop-eggs/
