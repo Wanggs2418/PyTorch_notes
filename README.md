@@ -48,8 +48,9 @@ print('gpu:', torch.cuda.is_available())
 
 ## 2.文档说明
 
-- `Torch_intro.md`：以龙良曲讲解视频为主，参考对应的[课程代码](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)
-- `Linklibrary_intro.md`：针对《程序员的自我修养：链接、装载与库》的笔记
+`Torch_intro.md`：以龙良曲讲解视频为主，参考对应的[课程代码](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)
+
+基于前期的 TF 学习基础，整个文档采用结合 YOLO 模型的方式进行学习
 
 
 
