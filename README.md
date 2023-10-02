@@ -48,15 +48,19 @@ print('gpu:', torch.cuda.is_available())
 
 ## 2.文档说明
 
-`Torch_intro.md`：以龙良曲讲解视频为主，参考对应的[课程代码](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)
+`PyTorch_intro.md`：以龙良曲讲解视频为主。
 
-基于前期的 TF 学习基础，整个文档采用结合 YOLO 模型的方式进行学习
+参考对应的[课程代码](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)和资源`resources\Deep-Learning-with-PyTorch-Tutorials`
 
+如果前期有 TF 学习基础，可直接结合 YOLO 模型的方式进行学习
 
+其他参照书籍：
 
+- [《动手学深度学习》](https://github.com/ShusenTang/Dive-into-DL-PyTorch)的 PyTorch 实现版 | [网页版](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
 
+- [《深度学习框架PyTorch：入门与实践》](https://github.com/chenyuntc/pytorch-book)：对应目录 `resources\pytorch-book-master`
 
-
+- 官方权威的 PyTorch 教程书 《Deep Learning with PyTorch》 |[官网的基本摘录版](https://pytorch.org/tutorials/) | [基本摘录的中文翻译版](https://tangshusen.me/Deep-Learning-with-PyTorch-Chinese/)
 
 
 

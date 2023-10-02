@@ -249,10 +249,6 @@ val2014 (6.19G)：https://pjreddie.com/media/files/val2014.zip (下载速度慢�
 
 根据 `download_weights.sh` 文件内容下载预训练模型的权重参数；
 
-```python
-
-```
-
 
 
 #### 3.Poetry env
